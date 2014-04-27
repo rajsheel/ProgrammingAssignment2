@@ -1,4 +1,4 @@
-## There are two functions here, first function provide caches the result of inverse of a matrix
+## There are two functions here, first function caches the result of inverse of a matrix
 ## and second function returns the inverse of matrix
 
 
